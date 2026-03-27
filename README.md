@@ -1,4 +1,4 @@
-# Town Runner – Prototype 4
+# Sky Sumo – Prototype 4
 
 This project is Prototype 4 from my Unity learning journey.
 It is based on Unity’s Create with Code course.
